@@ -52,3 +52,6 @@ address {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
 }
+.container {width: 1440px;
+padding: 0 20px;
+margin: 0 auto;}
